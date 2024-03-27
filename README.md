@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aebidi
-- 👀 I’m interested in getting to know the GitHub community
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Abdullah Mubasshar
+- 👀 I’m interested in ML & AI in Medical Imaging
+- 🌱 I’m currently working as a big data intern @NRTC
 - 💞️ I’m looking to collaborate on all kinds of projects I can be a part of
 - 📫 You can reach me on amubasshar@gmail.com
 
