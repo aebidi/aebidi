@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdullah Mubasshar
-- 👀 I’m interested in ML & AI in Medical Imaging
 - 📚 Artificial Intelligence postgraduate student @Queen Mary University of London
 - 🌱 Former big data intern @NRTC
+- - 👀 I’m interested in ML & AI in Medical Imaging
 - 💞️ I’m looking to collaborate on projects of interest I can be a part of
 - 📫 You can reach me on amubasshar@gmail.com
 
