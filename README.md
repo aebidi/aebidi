@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdullah Mubasshar
-- 📚 Artificial Intelligence postgraduate student @Queen Mary University of London
+- 📚 Artificial Intelligence postgraduate student @ Queen Mary University of London
 - 🌱 Former big data intern @NRTC
 - 👀 I’m interested in ML & AI in Medical Imaging
 - 💞️ I’m looking to collaborate on projects of interest I can be a part of
