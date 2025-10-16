@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah Mubasshar
 - 📚 Masters @ Queen Mary University of London
-- 🌱 Data Scientist @Syvl.earth
+- 🌱 Data Engineer @Syvl.Earth
 - 👀 I’m interested in ML & AI in Medical Imaging
 - 💞️ I’m looking to collaborate on projects of interest I can be a part of
 - 📫 You can reach me on amubasshar@gmail.com
