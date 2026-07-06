@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Abdullah Mubasshar
-- 📚 _Previously:_ Undergrad @ NUST | Postgraduate @ Queen Mary University of London
-- 🌱 ML Engineer @Syvl.Earth
-- 👀 Building solutions for AgriTech and Healthcare
-- 💞️ I’m looking to collaborate on projects of interest I can be a part of
-- 📫 You can reach me on amubasshar@gmail.com
+- _Previously:_ Undergrad @ NUST | Postgraduate @ Queen Mary University of London
+- ML Engineer @Syvl.Earth
+- Building solutions for AgriTech and Healthcare
+- I’m looking to collaborate on projects of interest I can be a part of
+- You can reach me on amubasshar@gmail.com
 
 <!---
 aebidi/aebidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
