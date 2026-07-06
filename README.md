@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah Mubasshar
 - 📚 _Previously:_ Undergrad @ NUST | Postgraduate @ Queen Mary University of London
-- 🌱 MLOps Engineer @Syvl.Earth
+- 🌱 ML Engineer @Syvl.Earth
 - 👀 Building solutions for AgriTech and Healthcare
 - 💞️ I’m looking to collaborate on projects of interest I can be a part of
 - 📫 You can reach me on amubasshar@gmail.com
